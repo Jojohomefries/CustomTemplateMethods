@@ -1,0 +1,21 @@
+{
+    "name": "watermelon/module-customtemplatemethods",
+    "description": "",
+    "license": "proprietary",
+    "authors": [
+        {
+            "email": "info@mage2gen.com",
+            "name": "Mage2Gen"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Watermelon\\CustomTemplateMethods\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
